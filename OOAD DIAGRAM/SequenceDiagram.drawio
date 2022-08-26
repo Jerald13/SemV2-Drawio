@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T00:37:08.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Y1LKreoNJ1-LrGztwP3y" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T00:37:34.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gaMN96973v4gclS_SKNh" version="20.2.6" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="SequenceDiagram">
-    <mxGraphModel dx="1673" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2512" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,6 +271,119 @@
             <mxPoint x="210" y="1240" as="sourcePoint" />
             <mxPoint x="375" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1oKIjDPoIlXQhYS9PexN" name="Page-2">
+    <mxGraphModel dx="1662" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-65" value="AdminStaff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-66" value=":AssignTutorUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-67" value=":AssignTutorCTRL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.99999999999977" y="165" as="sourcePoint" />
+            <mxPoint x="289.9999999999998" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.9999999999998" y="169.57999999999993" as="sourcePoint" />
+            <mxPoint x="570" y="169.57999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.99999999999977" y="149.57999999999993" as="sourcePoint" />
+            <mxPoint x="289.9999999999998" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.9999999999998" y="159.57999999999993" as="sourcePoint" />
+            <mxPoint x="570" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-72" value="1. StartUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+            <mxPoint x="434.9999999999998" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-74" value=":AdminStaff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0.083;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pH94Z6AD2C6HREFzQDE0-74" target="pH94Z6AD2C6HREFzQDE0-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="580" y="220.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567.5" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-77" value="4. &lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;GetAccountDetails&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-78" value="&lt;span style=&quot;&quot;&gt;:Tutor&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0.593;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pH94Z6AD2C6HREFzQDE0-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="320" as="sourcePoint" />
+            <mxPoint x="672" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="657.5" y="220" as="sourcePoint" />
+            <mxPoint x="658" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-81" value="9.&amp;nbsp;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;GetTutorAvailable&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-82" value="&lt;br&gt;21.&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;UpdateClass&lt;br&gt;&lt;/span&gt;14.&amp;nbsp;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;GetClassAvailable&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-83" value="&lt;span style=&quot;text-align: center;&quot;&gt;17.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;MakeConfirmation&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;15. SelectClassAvailable&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;DisplayClassAvailable&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;10.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;SelectTutorAvailable&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;7.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ViewAssignTutor&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2. login&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-84" value="&lt;span style=&quot;text-align: center;&quot;&gt;20. [Confirm=N]&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;RedirectBackToSelectClassAvailable&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;19.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;[Confirm=Y]&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;AssignTutorToClass&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;18.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;VerifyConfirmationSelected&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;16. VerifyClassSelected&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;13.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;CheckClassAvailable&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;11.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;VerifyTutorSelected&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;8.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;CheckTutorAvailable&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;6. [&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Account!=&quot;exist&quot;]&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;RedirectBackToLogin&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;5. [&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Account=&quot;exist&quot;]&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;DisplayMenu&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;VerifyAccount&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-85" value="&lt;span style=&quot;&quot;&gt;:Tutor&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pH94Z6AD2C6HREFzQDE0-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700.0000000000001" y="321.1400000000001" as="sourcePoint" />
+            <mxPoint x="700.8400000000001" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="160" as="sourcePoint" />
+            <mxPoint x="850" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH94Z6AD2C6HREFzQDE0-88" value="Assign Tutor Collaboration" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;width=125;height=52;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-50" width="968" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
